@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Твой фон и базовые стили */
+body {
+  margin: 0;
+  background-color: #0f172a;
+  min-height: 100vh;
+}
